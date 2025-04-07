@@ -1,0 +1,7 @@
+Descriptions for image_10_cat.png:
+
+Description 1: a black cat laying on the floor
+Description 2: a black and white cat sitting on a table
+Description 3: a cat is sitting on a couch
+Description 4: a black cat is laying on the floor
+Description 5: a black cat laying on the floor

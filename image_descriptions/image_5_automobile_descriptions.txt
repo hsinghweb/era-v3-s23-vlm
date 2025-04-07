@@ -1,0 +1,7 @@
+Descriptions for image_5_automobile.png:
+
+Description 1: a white car driving down a road with mountains in the background
+Description 2: a car is parked on the side of the road
+Description 3: a car is parked on the side of the road
+Description 4: a white car driving down a road with mountains in the background
+Description 5: a car is parked on the side of the road

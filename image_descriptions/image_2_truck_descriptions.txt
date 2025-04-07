@@ -1,0 +1,7 @@
+Descriptions for image_2_truck.png:
+
+Description 1: a truck with a large trailer on the back
+Description 2: a white house with a black roof and a green roof
+Description 3: a truck with a trailer parked in front of it
+Description 4: a truck with a large trailer on the back
+Description 5: a truck with a large trailer on the back

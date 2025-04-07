@@ -1,0 +1,7 @@
+Descriptions for image_9_ship.png:
+
+Description 1: a white boat in the ocean with a blue sky
+Description 2: a white whale swimming in the ocean
+Description 3: a white boat in the ocean
+Description 4: a boat is floating in the water
+Description 5: a boat in the ocean with a blue sky

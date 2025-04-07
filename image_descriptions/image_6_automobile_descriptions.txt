@@ -1,0 +1,7 @@
+Descriptions for image_6_automobile.png:
+
+Description 1: a red car in a showroom
+Description 2: a red car with a white top
+Description 3: a red car parked in a garage
+Description 4: a red car in a showroom
+Description 5: a red car is parked in a showroom

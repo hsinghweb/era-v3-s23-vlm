@@ -1,0 +1,7 @@
+Descriptions for image_7_bird.png:
+
+Description 1: an elephant and a bird walking down the road
+Description 2: a bird is standing on a tree branch
+Description 3: an elephant and an elephant walking down a path
+Description 4: an elephant walking down the road with a blue bird
+Description 5: an elephant walking down the road with a blue umbrella
